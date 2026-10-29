@@ -1,0 +1,11 @@
+{
+  "name": "Borneo Arts Festival 2027",
+  "short_name": "BAF 2027",
+  "description": "Borneo Arts Festival in W.P. Labuan",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101015",
+  "theme_color": "#eac16b",
+  "lang": "ms"
+}
